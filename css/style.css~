@@ -1,0 +1,16 @@
+body {
+	padding: 70px;
+}
+
+#bc-content {
+	height: 100%;
+	font-size: 300%;
+	padding: 5px;
+	overflow: scroll;
+}
+
+.bc-post {
+	margin: auto;
+	width: 85%;
+}
+
