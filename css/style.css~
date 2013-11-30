@@ -3,10 +3,10 @@ body {
 }
 
 #bc-content {
-	height: 100%;
 	font-size: 300%;
-	padding: 5px;
-	overflow: scroll;
+	padding: 5px 15px 70px 15px ;
+	overflow: hidden;
+	position: absolute;
 }
 
 .bc-post {
@@ -14,3 +14,13 @@ body {
 	width: 85%;
 }
 
+.bullet {
+	width: 300px;
+	height: 150px;
+	padding: 2px;
+	background: #fff;
+	opacity: 0.8;
+	position: absolute;
+	left: -300px;
+	font-size: 18px;
+}
