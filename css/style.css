@@ -15,11 +15,10 @@ body {
 }
 
 .bullet {
-	width: 300px;
-	height: 150px;
-	padding: 2px;
+	height: 28px;
+	padding: 1px;
 	background: #fff;
-	opacity: 0.8;
+	opacity: 0.7;
 	position: absolute;
 	border: 1px solid #bbb;
 	font-size: 18px;
